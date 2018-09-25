@@ -1,1 +1,5 @@
 node_modules/
+.vs/VSWorkspaceState.json
+.vs/ProjectSettings.json
+.vs/jmc-mining-app/v15/.suo
+.vs/slnx.sqlite

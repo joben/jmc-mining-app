@@ -32,3 +32,5 @@ app.put('/records/:id', function(req, res, next){
 ```
 
 This is for simple seed mean app at it basic level for learning.
+
+[![Build status](https://dev.azure.com/rockthedemo/RAJE/_apis/build/status/RAJE-Docker%20container-CI)](https://dev.azure.com/rockthedemo/RAJE/_build/latest?definitionId=18)
